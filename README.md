@@ -26,3 +26,4 @@ BLS Legal Hackers Student Club (aka BLUSH)
 ## Resources ##
 * [Legal Hackers Website](http://legalhackers.org)
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+* [TLDR Legal](https://tldrlegal.com/)
