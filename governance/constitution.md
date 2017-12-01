@@ -9,11 +9,7 @@ Brooklyn Law School Chapter
 membership body.
 
 ##ARTICLE II: PURPOSES
-This organization has been formed for the following purposes:
-1. To provide a support and networking system for law students with an interest in
-_______________.
-2. To promote _______________ throughout the Law School by sponsoring various events
-on and off campus.
+This organization has been formed for the purpose of exploring and developing creative solutions to some of the most pressing issues at the intersection of law and technology.
 
 ##ARTICLE III: MEMBERSHIP
 Membership in this organization shall be open to all Brooklyn Law School students.
