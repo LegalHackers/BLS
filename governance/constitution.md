@@ -1,15 +1,15 @@
-#CONSTITUTION OF BROOKLYN LAW SCHOOL LEGAL HACKERS STUDENT CLUB (aka the BROOKLYN LAW UNION OF STUDENT HACKERS OR BLUSH)
+##CONSTITUTION OF BROOKLYN LAW SCHOOL LEGAL HACKERS STUDENT ORGANIZATION (aka THE BROOKLYN LAW UNION OF STUDENT HACKERS aka BLUSH)
 
-Brooklyn Law School Chapter
+##Brooklyn Law School Chapter
 
 ##ARTICLE I: ORGANIZATION
-1. The full name of the organization shall be the “____________________.”
-2. The organization shall have an acronym in the following form: ________
+1. The full name of the organization shall be the “Brooklyn Law School Legal Hackers Student Organization.”
+2. The organization shall have an acronym in the following form: BLUSH.
 3. The organization may change its name at its own discretion by a majority vote of the
 membership body.
 
 ##ARTICLE II: PURPOSES
-This organization has been formed for the purpose of exploring and developing creative solutions to some of the most pressing issues at the intersection of law and technology.
+This organization has been formed for the purpose of exploring and developing creative solutions to some of the most pressing issues at the intersection of law and technology. Additionally, the organization pushes members to enhance their technical skills, and apply those skills in the contexts of law and entrepreneurship.
 
 ##ARTICLE III: MEMBERSHIP
 Membership in this organization shall be open to all Brooklyn Law School students.
